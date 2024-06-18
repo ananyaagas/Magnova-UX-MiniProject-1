@@ -1,0 +1,22 @@
+{
+    "coffees": [
+        {
+            "name": "Espresso",
+            "type": "espresso",
+            "description": "Strong and black coffee.",
+            "photo": "https://www.nescafe.com/mt/sites/default/files/2023-08/Nes_Web3_Article_Header_Espresso_1448x1240.png"
+        },
+        {
+            "name": "Latte",
+            "type": "latte",
+            "description": "Espresso with steamed milk.",
+            "photo": "https://www.starbucksathome.com/gb/sites/default/files/2021-03/Vanilla%20Latte_LongShadow_Cream_1.png"
+        },
+        {
+            "name": "Cappuccino",
+            "type": "cappuccino",
+            "description": "Espresso with steamed milk and foam.",
+            "photo": "https://www.starbucksathome.com/au/sites/default/files/2021-06/10032021_CAPPUCCINO_LS-min.png"
+        }
+    ]
+}
